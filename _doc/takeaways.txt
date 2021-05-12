@@ -1,0 +1,10 @@
+- API routes need to be created in a folder named api
+  under the pages folder
+- Call APIs from the client
+  - #TA01
+- handle POST request on the server side
+  - #TA02
+- share logic between API routes and Static Generation
+  - #TA03
+- dynamic API routes
+  - #TA04
